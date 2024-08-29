@@ -1,0 +1,15 @@
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.SuggestedBindingRedirects.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmChinh.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai1.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources
